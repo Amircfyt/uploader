@@ -1,0 +1,152 @@
+@font-face {
+
+font-family: “yekan”;
+
+src: url(yekan/Yekan.eot);
+
+src: url(yekan/Yekan.eot?#iefix) format(“embedded-opentype”), url(yekan/Yekan.woff) format(“woff”), url(yekan/Yekan.ttf) format(“truetype”), url(yekan/Yekan.svg#BYekan) format(“svg”);
+
+font-weight: normal;
+
+font-style: normal
+
+}
+
+@font-face {
+
+font-family: “vazir”;
+
+src: url(vazir/vazir.eot);
+
+src: url(vizer/vazir.eot?#iefix) format(“embedded-opentype”), url(vazir/vazir.woff) format(“woff”), url(vazir/vazir.ttf) format(“truetype”), url(vazir/vazir.svg#BYekan) format(“svg”);
+
+font-weight: normal;
+
+font-style: normal
+
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url(vazir/Vazir-Bold.eot);
+  src: url(vazir/Vazir-Bold.eot?#iefix) format('embedded-opentype'),
+    url(vazir/Vazir-Bold.otf) format('otf'),
+    url(vazir/Vazir-Bold.svg#Vazir-Bold) format('svg'),
+    url(vazir/Vazir-Bold.ttf) format('truetype'),
+    url(vazir/Vazir-Bold.woff) format('woff'),
+    url(vazir/Vazir-Bold.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Yekan';
+  src: url(yekan/Yekan.eot);
+  src: url(yekan/Yekan.eot?#iefix) format('embedded-opentype'),
+       url(yekan/Yekan.otf) format('otf'),
+       url(yekan/Yekan.svg#Yekan) format('svg'),
+       url(yekan/Yekan.woff2) format('woff2'),
+       url(yekan/Yekan.ttf) format('truetype'),
+       url(yekan/Yekan.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'yekan b';
+  src: url('yekan boom/MT_YekanSquareBoom-Bold.svg#MT_YekanSquareBoom-Bold') format('svg'),
+       url('yekan boom/MT_YekanSquareBoom-Bold.ttf') format('truetype'),
+       url('yekan boom/MT_YekanSquareBoom-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'yekan boom';
+  src: url('yekan boom/یکان بوم.eot');
+  src: url('yekan boom/یکان بوم.eot?#iefix') format('embedded-opentype'),
+       url('yekan boom/یکان بوم.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mikhak';
+  src: url('mihkak/Mikhak-Bold.svg#Mikhak-Bold') format('svg'),
+    url('mihkak/Mikhak-Bold.ttf') format('truetype'),
+    url('mihkak/Mikhak-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+a.btn {
+  display: inline-block;
+  padding: 7px 10px;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 3px;
+  border: 1px solid #FF9F1B;
+  font-size: 13px;
+}
+
+a.btn:hover {
+  cursor: pointer;
+}
+
+input[type = "text"],
+input[type = "email"],
+input[type = "password"],
+input[type = "file"],
+textarea {
+  border: 1px solid #FF9F1B;
+  padding: 7px;
+  border-radius: 3px;
+  width: 100%;
+}
+
+input[type = "submit"],
+input.submit {
+  border: 1px solid #FF9F1B;
+  padding: 7px 10px;
+  background-color: #FF9F1B;
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+input[type = "submit"],
+input.submit:hover {
+  border: 1px solid #FF9F1B;
+  background-color: #FF9F1B;
+  font-family:vazir;
+}
+
+select {
+  border: 1px solid #FF9F1B;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.container {
+  width:85%;
+
+  border: 1px solid #FF9F1B;
+  padding: 20px;
+  border-radius: 3px;
+  margin-top: 20px;
+  font-family:vazir;
+}
+
+#upload-form .form-element {
+  margin: 10px 0;
+}
+.ico {
+/*width:55%;*/
+width:50vw;
+}
+.label{
+color:#FF9F1B;
+font-family:vazir;
+}
+.copy{
+color:#FF9F1B;
+font-family:vazir;
+}
+.amircom{
+color:#00E7C8;
+}

@@ -1,0 +1,19 @@
+[29-Dec-2021 22:25:15 UTC] PHP Notice:  Undefined index: myfile in /home/landcode/public_html/upload/upload.php on line 7
+[29-Dec-2021 22:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/landcode/public_html/upload/upload.php on line 7
+[29-Dec-2021 22:25:20 UTC] PHP Notice:  Undefined index: myfile in /home/landcode/public_html/upload/upload.php on line 7
+[29-Dec-2021 22:25:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/landcode/public_html/upload/upload.php on line 7
+[29-Dec-2021 22:36:46 UTC] PHP Notice:  Undefined variable: target_dir in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:36:46 UTC] PHP Notice:  Undefined index: fileToUpload in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:36:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:39:59 UTC] PHP Notice:  Undefined variable: target_dir in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:39:59 UTC] PHP Notice:  Undefined index: fileToUpload in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:39:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:40:05 UTC] PHP Notice:  Undefined variable: target_dir in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:40:05 UTC] PHP Notice:  Undefined index: fileToUpload in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:40:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:42:03 UTC] PHP Notice:  Undefined variable: target_dir in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:42:03 UTC] PHP Notice:  Undefined index: fileToUpload in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:42:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:43:56 UTC] PHP Notice:  Undefined variable: target_dir in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:43:56 UTC] PHP Notice:  Undefined index: fileToUpload in /home/landcode/public_html/upload/index.php on line 100
+[29-Dec-2021 22:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/landcode/public_html/upload/index.php on line 100
